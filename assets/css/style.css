@@ -1,0 +1,22 @@
+.logo {
+    max-width: 100px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.bg-green {
+    background-color: #28a745;
+}
+
+span {
+    color: #28A745;
+    font-weight: bolder;
+}
+
+.card img {
+height: 300px;
+width: 287px;
+object-fit: cover;
+}
